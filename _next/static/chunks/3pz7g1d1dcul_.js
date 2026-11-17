@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,86892,t=>{t.v(i=>Promise.all(["static/chunks/1y5z3sg57x4zi.js"].map(i=>t.l(i))).then(()=>i(45995)))},90364,t=>{t.q("/morrow-site/_next/static/media/living.worker.37z3fnk26-ij5.ts")}]);

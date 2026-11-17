@@ -1,0 +1,18 @@
+{
+ "en": {
+  "mp4": "/film/morrow-en.mp4",
+  "webm": "/film/morrow-en.webm",
+  "poster": "/film/morrow-en.jpg",
+  "width": 1280,
+  "height": 720,
+  "seconds": 40.6
+ },
+ "ro": {
+  "mp4": "/film/morrow-ro.mp4",
+  "webm": "/film/morrow-ro.webm",
+  "poster": "/film/morrow-ro.jpg",
+  "width": 1280,
+  "height": 720,
+  "seconds": 40.6
+ }
+}

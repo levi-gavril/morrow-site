@@ -1,0 +1,602 @@
+{
+ "generatedBy": "apps/web/scripts/copy-assets.mjs",
+ "themes": {
+  "emerald-dreams": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "emerald-dreams/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "emerald-dreams/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "emerald-dreams/thumb.webp",
+   "thumbPortrait": "emerald-dreams/thumb-portrait.webp",
+   "average": "#6c927e",
+   "luminance": 0.536
+  },
+  "deep-forest": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "deep-forest/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "deep-forest/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "deep-forest/thumb.webp",
+   "thumbPortrait": "deep-forest/thumb-portrait.webp",
+   "average": "#464733",
+   "luminance": 0.271
+  },
+  "lavender-alps": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "lavender-alps/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "lavender-alps/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "lavender-alps/thumb.webp",
+   "thumbPortrait": "lavender-alps/thumb-portrait.webp",
+   "average": "#8f7fa0",
+   "luminance": 0.519
+  },
+  "cloud-nine": {
+   "status": "missing",
+   "reason": "No source artwork was supplied for this theme."
+  },
+  "orange-heaven": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "orange-heaven/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "orange-heaven/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "orange-heaven/thumb.webp",
+   "thumbPortrait": "orange-heaven/thumb-portrait.webp",
+   "average": "#915229",
+   "luminance": 0.363
+  },
+  "golden-autumn": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "golden-autumn/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "golden-autumn/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "golden-autumn/thumb.webp",
+   "thumbPortrait": "golden-autumn/thumb-portrait.webp",
+   "average": "#82491c",
+   "luminance": 0.322
+  },
+  "winter-silence": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "winter-silence/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "winter-silence/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "winter-silence/thumb.webp",
+   "thumbPortrait": "winter-silence/thumb-portrait.webp",
+   "average": "#929ca7",
+   "luminance": 0.607
+  },
+  "spring-awakening": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "spring-awakening/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "spring-awakening/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "spring-awakening/thumb.webp",
+   "thumbPortrait": "spring-awakening/thumb-portrait.webp",
+   "average": "#b8a67d",
+   "luminance": 0.655
+  },
+  "turquoise-coast": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "turquoise-coast/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "turquoise-coast/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "turquoise-coast/thumb.webp",
+   "thumbPortrait": "turquoise-coast/thumb-portrait.webp",
+   "average": "#98a9bf",
+   "luminance": 0.654
+  },
+  "misty-mountains": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "misty-mountains/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "misty-mountains/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "misty-mountains/thumb.webp",
+   "thumbPortrait": "misty-mountains/thumb-portrait.webp",
+   "average": "#a48196",
+   "luminance": 0.54
+  },
+  "moonlit-meadow": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "moonlit-meadow/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "moonlit-meadow/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "moonlit-meadow/thumb.webp",
+   "thumbPortrait": "moonlit-meadow/thumb-portrait.webp",
+   "average": "#182c3b",
+   "luminance": 0.161
+  },
+  "foggy-swamp": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "foggy-swamp/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "foggy-swamp/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "foggy-swamp/thumb.webp",
+   "thumbPortrait": "foggy-swamp/thumb-portrait.webp",
+   "average": "#3f4f4b",
+   "luminance": 0.296
+  },
+  "cherry-blossom": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "cherry-blossom/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "cherry-blossom/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "cherry-blossom/thumb.webp",
+   "thumbPortrait": "cherry-blossom/thumb-portrait.webp",
+   "average": "#686c78",
+   "luminance": 0.425
+  },
+  "thunder-lake": {
+   "status": "missing",
+   "reason": "No source artwork was supplied for this theme."
+  },
+  "negev-canyon": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "negev-canyon/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "negev-canyon/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "negev-canyon/thumb.webp",
+   "thumbPortrait": "negev-canyon/thumb-portrait.webp",
+   "average": "#6a5052",
+   "luminance": 0.335
+  },
+  "ember-lines": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "ember-lines/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "ember-lines/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "ember-lines/thumb.webp",
+   "thumbPortrait": "ember-lines/thumb-portrait.webp",
+   "average": "#5e240e",
+   "luminance": 0.184
+  },
+  "velvet-heat": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "velvet-heat/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "velvet-heat/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "velvet-heat/thumb.webp",
+   "thumbPortrait": "velvet-heat/thumb-portrait.webp",
+   "average": "#78300c",
+   "luminance": 0.238
+  },
+  "blue-silence": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "blue-silence/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "blue-silence/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "blue-silence/thumb.webp",
+   "thumbPortrait": "blue-silence/thumb-portrait.webp",
+   "average": "#75b4e0",
+   "luminance": 0.664
+  },
+  "mosslight": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "mosslight/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "mosslight/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "mosslight/thumb.webp",
+   "thumbPortrait": "mosslight/thumb-portrait.webp",
+   "average": "#4ea34d",
+   "luminance": 0.544
+  },
+  "midnight-current": {
+   "status": "installed",
+   "origin": "supplied",
+   "upscaled": false,
+   "desktop": {
+    "file": "midnight-current/desktop.webp",
+    "width": 1672,
+    "height": 941
+   },
+   "portrait": {
+    "file": "midnight-current/portrait.webp",
+    "width": 941,
+    "height": 1672
+   },
+   "thumb": "midnight-current/thumb.webp",
+   "thumbPortrait": "midnight-current/thumb-portrait.webp",
+   "average": "#142960",
+   "luminance": 0.159
+  },
+  "violet-haze": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "violet-haze/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "violet-haze/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "violet-haze/thumb.webp",
+   "thumbPortrait": "violet-haze/thumb-portrait.webp",
+   "average": "#535a9b",
+   "luminance": 0.367
+  },
+  "cloud-milk": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "cloud-milk/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "cloud-milk/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "cloud-milk/thumb.webp",
+   "thumbPortrait": "cloud-milk/thumb-portrait.webp",
+   "average": "#dee1e2",
+   "luminance": 0.881
+  },
+  "copper-dusk": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "copper-dusk/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "copper-dusk/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "copper-dusk/thumb.webp",
+   "thumbPortrait": "copper-dusk/thumb-portrait.webp",
+   "average": "#67361a",
+   "luminance": 0.245
+  },
+  "sea-glass": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "sea-glass/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "sea-glass/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "sea-glass/thumb.webp",
+   "thumbPortrait": "sea-glass/thumb-portrait.webp",
+   "average": "#237281",
+   "luminance": 0.387
+  },
+  "rose-twilight": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "rose-twilight/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "rose-twilight/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "rose-twilight/thumb.webp",
+   "thumbPortrait": "rose-twilight/thumb-portrait.webp",
+   "average": "#7e4461",
+   "luminance": 0.325
+  },
+  "morning-haze": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "morning-haze/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "morning-haze/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "morning-haze/thumb.webp",
+   "thumbPortrait": "morning-haze/thumb-portrait.webp",
+   "average": "#c2bec1",
+   "luminance": 0.751
+  },
+  "candlelight": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "candlelight/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "candlelight/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "candlelight/thumb.webp",
+   "thumbPortrait": "candlelight/thumb-portrait.webp",
+   "average": "#643a26",
+   "luminance": 0.258
+  },
+  "blue-hour": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "blue-hour/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "blue-hour/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "blue-hour/thumb.webp",
+   "thumbPortrait": "blue-hour/thumb-portrait.webp",
+   "average": "#474561",
+   "luminance": 0.28
+  },
+  "harbour-fog": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "harbour-fog/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "harbour-fog/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "harbour-fog/thumb.webp",
+   "thumbPortrait": "harbour-fog/thumb-portrait.webp",
+   "average": "#7d898b",
+   "luminance": 0.528
+  },
+  "sage-mist": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "sage-mist/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "sage-mist/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "sage-mist/thumb.webp",
+   "thumbPortrait": "sage-mist/thumb-portrait.webp",
+   "average": "#b9c7af",
+   "luminance": 0.762
+  },
+  "linen": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "linen/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "linen/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "linen/thumb.webp",
+   "thumbPortrait": "linen/thumb-portrait.webp",
+   "average": "#dacfbf",
+   "luminance": 0.815
+  },
+  "night-rain": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "night-rain/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "night-rain/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "night-rain/thumb.webp",
+   "thumbPortrait": "night-rain/thumb-portrait.webp",
+   "average": "#232e3c",
+   "luminance": 0.175
+  },
+  "golden-hour": {
+   "status": "installed",
+   "origin": "procedural",
+   "upscaled": false,
+   "desktop": {
+    "file": "golden-hour/desktop.webp",
+    "width": 1920,
+    "height": 1080
+   },
+   "portrait": {
+    "file": "golden-hour/portrait.webp",
+    "width": 1080,
+    "height": 1920
+   },
+   "thumb": "golden-hour/thumb.webp",
+   "thumbPortrait": "golden-hour/thumb-portrait.webp",
+   "average": "#b79485",
+   "luminance": 0.606
+  }
+ }
+}

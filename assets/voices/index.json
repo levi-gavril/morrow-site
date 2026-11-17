@@ -1,0 +1,149 @@
+{
+ "source": "assets/voices/manifest.json",
+ "voices": [
+  {
+   "id": "selah",
+   "name": "Selah",
+   "gender": "female",
+   "language": "en",
+   "tagline": "Calm and unhurried",
+   "sampleText": "Good morning, I'm Selah. It's seven forty-five, and fifty-five degrees outside. Shall we begin with a Psalm?",
+   "files": {
+    "ogg": "voices/selah.ogg",
+    "m4a": "voices/selah.m4a"
+   }
+  },
+  {
+   "id": "miriam",
+   "name": "Miriam",
+   "gender": "female",
+   "language": "en",
+   "tagline": "Bright and encouraging",
+   "sampleText": "Good morning, I'm Miriam. It's seven forty-five, and fifty-five degrees outside. Shall we begin with a Psalm?",
+   "files": {
+    "ogg": "voices/miriam.ogg",
+    "m4a": "voices/miriam.m4a"
+   }
+  },
+  {
+   "id": "noa",
+   "name": "Noa",
+   "gender": "female",
+   "language": "en",
+   "tagline": "Soft and light",
+   "sampleText": "Good morning, I'm Noa. It's seven forty-five, and fifty-five degrees outside. Shall we begin with a Psalm?",
+   "files": {
+    "ogg": "voices/noa.ogg",
+    "m4a": "voices/noa.m4a"
+   }
+  },
+  {
+   "id": "asher",
+   "name": "Asher",
+   "gender": "male",
+   "language": "en",
+   "tagline": "Warm and kind",
+   "sampleText": "Good morning, I'm Asher. It's seven forty-five, and fifty-five degrees outside. Shall we begin with a Psalm?",
+   "files": {
+    "ogg": "voices/asher.ogg",
+    "m4a": "voices/asher.m4a"
+   }
+  },
+  {
+   "id": "elias",
+   "name": "Elias",
+   "gender": "male",
+   "language": "en",
+   "tagline": "Deep and steady",
+   "sampleText": "Good morning, I'm Elias. It's seven forty-five, and fifty-five degrees outside. Shall we begin with a Psalm?",
+   "files": {
+    "ogg": "voices/elias.ogg",
+    "m4a": "voices/elias.m4a"
+   }
+  },
+  {
+   "id": "jude",
+   "name": "Jude",
+   "gender": "male",
+   "language": "en",
+   "tagline": "Clear and gentle",
+   "sampleText": "Good morning, I'm Jude. It's seven forty-five, and fifty-five degrees outside. Shall we begin with a Psalm?",
+   "files": {
+    "ogg": "voices/jude.ogg",
+    "m4a": "voices/jude.m4a"
+   }
+  },
+  {
+   "id": "ana",
+   "name": "Ana",
+   "gender": "female",
+   "language": "ro",
+   "tagline": "Caldă și blândă",
+   "sampleText": "Bună dimineața, sunt Ana. Este ora șapte și patruzeci și cinci de minute, iar afară sunt douăsprezece grade. Începem cu un psalm?",
+   "files": {
+    "ogg": "voices/ana.ogg",
+    "m4a": "voices/ana.m4a"
+   }
+  },
+  {
+   "id": "estera",
+   "name": "Estera",
+   "gender": "female",
+   "language": "ro",
+   "tagline": "Luminoasă și clară",
+   "sampleText": "Bună dimineața, sunt Estera. Este ora șapte și patruzeci și cinci de minute, iar afară sunt douăsprezece grade. Începem cu un psalm?",
+   "files": {
+    "ogg": "voices/estera.ogg",
+    "m4a": "voices/estera.m4a"
+   }
+  },
+  {
+   "id": "rut",
+   "name": "Rut",
+   "gender": "female",
+   "language": "ro",
+   "tagline": "Joasă și catifelată",
+   "sampleText": "Bună dimineața, sunt Rut. Este ora șapte și patruzeci și cinci de minute, iar afară sunt douăsprezece grade. Începem cu un psalm?",
+   "files": {
+    "ogg": "voices/rut.ogg",
+    "m4a": "voices/rut.m4a"
+   }
+  },
+  {
+   "id": "andrei",
+   "name": "Andrei",
+   "gender": "male",
+   "language": "ro",
+   "tagline": "Bariton cald",
+   "sampleText": "Bună dimineața, sunt Andrei. Este ora șapte și patruzeci și cinci de minute, iar afară sunt douăsprezece grade. Începem cu un psalm?",
+   "files": {
+    "ogg": "voices/andrei.ogg",
+    "m4a": "voices/andrei.m4a"
+   }
+  },
+  {
+   "id": "matei",
+   "name": "Matei",
+   "gender": "male",
+   "language": "ro",
+   "tagline": "Ușoară și prietenoasă",
+   "sampleText": "Bună dimineața, sunt Matei. Este ora șapte și patruzeci și cinci de minute, iar afară sunt douăsprezece grade. Începem cu un psalm?",
+   "files": {
+    "ogg": "voices/matei.ogg",
+    "m4a": "voices/matei.m4a"
+   }
+  },
+  {
+   "id": "ilie",
+   "name": "Ilie",
+   "gender": "male",
+   "language": "ro",
+   "tagline": "Gravă și fără grabă",
+   "sampleText": "Bună dimineața, sunt Ilie. Este ora șapte și patruzeci și cinci de minute, iar afară sunt douăsprezece grade. Începem cu un psalm?",
+   "files": {
+    "ogg": "voices/ilie.ogg",
+    "m4a": "voices/ilie.m4a"
+   }
+  }
+ ]
+}

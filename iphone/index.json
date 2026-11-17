@@ -1,0 +1,137 @@
+{
+ "generatedBy": "apps/web/scripts/iphone-shots.mjs",
+ "screens": {
+  "en": {
+   "bedtime-setup": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "sleep-countdown": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "ringing": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "mission-math": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "mission-bible": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "mission-photo": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "awake-morning": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "streak-detail": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   }
+  },
+  "ro": {
+   "bedtime-setup": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "sleep-countdown": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "ringing": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "mission-math": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "mission-bible": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "mission-photo": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "awake-morning": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   },
+   "streak-detail": {
+    "width": 1206,
+    "height": 2622,
+    "widths": [
+     400,
+     800
+    ]
+   }
+  }
+ }
+}

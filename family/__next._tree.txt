@@ -1,0 +1,8 @@
+:HL["/morrow-site/_next/static/chunks/14tm4t2_aoq2u.css","style"]
+:HL["/morrow-site/_next/static/media/instrument_serif_latin_400_italic-s.p.1bk2-9tco4m7m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/morrow-site/_next/static/media/instrument_serif_latin_400_normal-s.p.3_vslfxq_--4i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/morrow-site/_next/static/media/mona_sans_latin_wdth_normal-s.p.1kdvxkggsr1nm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"family","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(en)","h":112,"c":"$Q2"}]]
+0:{"b":"GjHDkPNCC1nhAZVQBh2Ak","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
